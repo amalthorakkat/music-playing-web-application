@@ -52,8 +52,6 @@ spotify-clone/
    npm run dev
    ```
 
-4. Open the app in your browser at `http://localhost:5173`.
-
 ## Scripts
 
 - `npm run dev`: Start the development server.
