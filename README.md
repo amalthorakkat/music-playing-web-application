@@ -1,7 +1,7 @@
 
 
 
-# Spotify Clone
+# VoiceOn | spotify clone
 
 This is a Spotify Clone built using **React**, **Vite**, **TailwindCSS**, and **React Router**. It mimics the basic functionality of Spotify, including album display, song playback, and navigation.
 
